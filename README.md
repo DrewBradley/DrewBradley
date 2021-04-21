@@ -9,6 +9,13 @@
 ***
 
 <h3 align="left"> 🔭 I’m currently working on... </h3>
+<p align="center">
+  <code><img alt='Turing' title='turing' height="75" src="/icons/turing.png"></code> &nbsp;&nbsp;
+  <code><img alt='CuraTour' title='curatour' height="75" src="/icons/curatour.png"></code> &nbsp;&nbsp;
+  <code><img alt='SongStarter' title='songstarter' height="75" src="/icons/songstarter.png"></code> &nbsp;&nbsp;
+</p>
+
+***
 
 <h3 align="left"> 👨🏻‍💻 ❤️Some Languages and Tools I Like to Use... </h3>
 
