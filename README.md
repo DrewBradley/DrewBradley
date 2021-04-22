@@ -10,9 +10,9 @@
 
 <h3 align="left"> 🔭 I’m currently working on... </h3>
 <p align="center">
-  <code><a href="https://turing.edu/"><img alt='Turing' title='turing' height="75" src="/icons/turing.png"></a></code> &nbsp;&nbsp;
-  <code><a href="https://github.com/Curatour"><img alt='CuraTour' title='curatour' height="75" src="/icons/curatour.png"></a></code> &nbsp;&nbsp;
-  <code><a href="https://github.com/Song-Starter"><img alt='SongStarter' title='songstarter' height="75" src="/icons/songstarter.png"></a></code> &nbsp;&nbsp;
+  <code><a href="https://turing.edu/" target="_blank"><img alt='Turing' title='turing' height="75" src="/icons/turing.png"></a></code> &nbsp;&nbsp;
+  <code><a href="https://github.com/Curatour" target="_blank"><img alt='CuraTour' title='curatour' height="75" src="/icons/curatour.png"></a></code> &nbsp;&nbsp;
+  <code><a href="https://github.com/Song-Starter" target="_blank"><img alt='SongStarter' title='songstarter' height="75" src="/icons/songstarter.png"></a></code> &nbsp;&nbsp;
 </p>
 
 ***
