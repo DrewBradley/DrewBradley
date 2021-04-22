@@ -12,7 +12,7 @@
 <p align="center">
   <code><img alt='Turing' title='turing' height="75" src="/icons/turing.png"></code> &nbsp;&nbsp;
   <code><img alt='CuraTour' title='curatour' height="75" src="/icons/curatour.png"></code> &nbsp;&nbsp;
-  <code><img alt='SongStarter' title='songstarter' height="75" src="/icons/songstarter.png"></code> &nbsp;&nbsp;
+  <code><a href="https://github.com/Song-Starter"><img alt='SongStarter' title='songstarter' height="75" src="/icons/songstarter.png"></a></code> &nbsp;&nbsp;
 </p>
 
 ***
