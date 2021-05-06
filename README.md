@@ -55,6 +55,7 @@
 <p align="center">
 <code><img alt='node.js' title='node' height="75" src="/icons/node.png"></code> &nbsp;&nbsp;
 <code><img alt='express.js' title='express' height="75" src="/icons/express.png"></code> &nbsp;&nbsp;
+  <code><img alt='graphQL' title='graphQL' height="75" src="/icons/mongodb.png"></code> &nbsp;&nbsp;
 <code><img alt='graphQL' title='graphQL' height="75" src="/icons/graphql.png"></code> &nbsp;&nbsp;
 </p>
 
