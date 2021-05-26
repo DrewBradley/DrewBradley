@@ -53,6 +53,7 @@
 <h3 align="left"> 🍎 Some Tools I Am Learning... </h3>
 
 <p align="center">
+<code><img alt='typescript' title='typescript' height="75" src="/icons/typescript.png"></code> &nbsp;&nbsp;
 <code><img alt='node.js' title='node' height="75" src="/icons/node.png"></code> &nbsp;&nbsp;
 <code><img alt='express.js' title='express' height="75" src="/icons/express.png"></code> &nbsp;&nbsp;
 <code><img alt='graphQL' title='graphQL' height="75" src="/icons/graphql.png"></code> &nbsp;&nbsp;
