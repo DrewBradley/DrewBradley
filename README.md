@@ -46,6 +46,7 @@
 <p align="center">
   <code><img alt='GH Pages' title='GH Pages' height="75" src="/icons/GitHub-Mark.png"></code> &nbsp;&nbsp;
   <code><img alt='Heroku' title='Heroku' height="75" src="/icons/heroku.png"></code> &nbsp;&nbsp;
+  <code><img alt='Vercel' title='Vercel' height="75" src="/icons/vercel.png"></code> &nbsp;&nbsp;
   <code><img alt='TravisCI' title='TravisCI' height="75" src="/icons/travis.png"></code> &nbsp;&nbsp;
 </p>
 
